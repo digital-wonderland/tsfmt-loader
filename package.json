@@ -17,11 +17,11 @@
     "karma-jasmine": "^1.0.2",
     "karma-jasmine-given": "^0.1.1",
     "karma-nested-reporter": "^0.1.4",
-    "typescript": "^1.8.10",
-    "typescript-formatter": "^2.3.0"
+    "typescript": "^2.0.6",
+    "typescript-formatter": "^4.0.0"
   },
   "peerDependencies": {
-    "typescript-formatter": "^2.3.0"
+    "typescript-formatter": "^4.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
